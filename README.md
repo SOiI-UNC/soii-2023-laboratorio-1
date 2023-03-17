@@ -1,4 +1,4 @@
-Sistemas Operativos II - Laboratorio II IPC
+Sistemas Operativos II - Laboratorio I IPC
 ###  Ingeniería en Compitación - FCEFyN - UNC - 2023
 # Laboratorio 1 - Interprocess Communication
 
